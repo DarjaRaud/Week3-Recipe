@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Sono&display=swap');
+
+body {
+    background-color: #E1B0AC;
+}
+
+.ingredients {
+    border: 1px solid #213F99;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.table {
+    margin: 0 auto;
+    color: #213F99;
+    font-family: 'Sono', sans-serif;
+}
+
+.steps {
+    border: 1px solid #213F99;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.joon {
+    border: 2px solid #213F99;
+}
+
+.heading {
+    text-align: center;
+}
+
+.headingcolor {
+    color: #213F99;
+    font-family: 'Abril Fatface', cursive;
+}
+
+footer {
+    color: #213F99;
+}
+
+.stepcolor {
+    color: #213F99;
+    font-family: 'Sono', sans-serif;
+}
+
+.img1 {
+    float: left;
+}
+
+.img11 {
+    width:320px;
+}
+
+.img2 {
+    float: right;
+}
+
+.img22 {
+    width:320px;
+}
+
+.img3 {
+    float: right;
+}
+
+.img33 {
+    width:320px;
+}
+
+.img4 {
+    float: left;
+}
+
+.img44 {
+    width:320px;
+}
+
+.enjoy {
+    text-align: center;
+    color: #213F99;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 2rem;
+}
+
+.source {
+    color: #213F99;
+}
